@@ -7,4 +7,10 @@ Une colonne a été créée sur tableau.com calculant la part du nombre d'emploi
 
 Voici plusieurs indicateurs et graphiques réalisés sur Tableau.com:
 
+![image2](https://github.com/celine29730/Un-tableau-de-bord-pour-l-INSEE/blob/main/image2.png)
+
+![image3](https://github.com/celine29730/Un-tableau-de-bord-pour-l-INSEE/blob/main/image3.png)
+
+![image4](https://github.com/celine29730/Un-tableau-de-bord-pour-l-INSEE/blob/main/image4.png)
+
 
